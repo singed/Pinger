@@ -1,0 +1,5 @@
+D:\projects\Pinger\src\Pinger\Pinger.Data.SqlServer\bin\Debug\Pinger.Data.SqlServer.dll
+D:\projects\Pinger\src\Pinger\Pinger.Data.SqlServer\bin\Debug\Pinger.Data.SqlServer.pdb
+D:\projects\Pinger\src\Pinger\Pinger.Data.SqlServer\obj\Debug\Pinger.Data.SqlServer.csprojResolveAssemblyReference.cache
+D:\projects\Pinger\src\Pinger\Pinger.Data.SqlServer\obj\Debug\Pinger.Data.SqlServer.dll
+D:\projects\Pinger\src\Pinger\Pinger.Data.SqlServer\obj\Debug\Pinger.Data.SqlServer.pdb

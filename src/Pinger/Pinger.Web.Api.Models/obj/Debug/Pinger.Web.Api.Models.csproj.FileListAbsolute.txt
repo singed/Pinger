@@ -1,0 +1,5 @@
+D:\projects\Pinger\src\Pinger\Pinger.Web.Api.Models\bin\Debug\Pinger.Web.Api.Models.dll
+D:\projects\Pinger\src\Pinger\Pinger.Web.Api.Models\bin\Debug\Pinger.Web.Api.Models.pdb
+D:\projects\Pinger\src\Pinger\Pinger.Web.Api.Models\obj\Debug\Pinger.Web.Api.Models.csprojResolveAssemblyReference.cache
+D:\projects\Pinger\src\Pinger\Pinger.Web.Api.Models\obj\Debug\Pinger.Web.Api.Models.dll
+D:\projects\Pinger\src\Pinger\Pinger.Web.Api.Models\obj\Debug\Pinger.Web.Api.Models.pdb

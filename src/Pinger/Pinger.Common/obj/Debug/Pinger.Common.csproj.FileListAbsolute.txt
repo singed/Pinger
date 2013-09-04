@@ -1,0 +1,5 @@
+D:\projects\Pinger\src\Pinger\Pinger.Common\bin\Debug\Pinger.Common.dll
+D:\projects\Pinger\src\Pinger\Pinger.Common\bin\Debug\Pinger.Common.pdb
+D:\projects\Pinger\src\Pinger\Pinger.Common\obj\Debug\Pinger.Common.csprojResolveAssemblyReference.cache
+D:\projects\Pinger\src\Pinger\Pinger.Common\obj\Debug\Pinger.Common.dll
+D:\projects\Pinger\src\Pinger\Pinger.Common\obj\Debug\Pinger.Common.pdb
