@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pinger.Common.Tests", "Ping
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pinger.Web.Api.Tests", "Pinger.Web.Api.Tests\Pinger.Web.Api.Tests.csproj", "{CD25BF96-3372-438F-A34F-F6E79EFB588A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pinger.Web.Site", "Pinger.Web.Site\Pinger.Web.Site.csproj", "{9539C55F-A679-4F07-9141-3D9724C20704}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,10 @@ Global
 		{CD25BF96-3372-438F-A34F-F6E79EFB588A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD25BF96-3372-438F-A34F-F6E79EFB588A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD25BF96-3372-438F-A34F-F6E79EFB588A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9539C55F-A679-4F07-9141-3D9724C20704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9539C55F-A679-4F07-9141-3D9724C20704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9539C55F-A679-4F07-9141-3D9724C20704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9539C55F-A679-4F07-9141-3D9724C20704}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
