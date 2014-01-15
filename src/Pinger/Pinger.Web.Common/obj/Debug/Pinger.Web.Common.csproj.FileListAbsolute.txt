@@ -1,4 +1,0 @@
-D:\projects\Pinger\src\Pinger\Pinger.Web.Common\bin\Debug\Pinger.Web.Common.dll
-D:\projects\Pinger\src\Pinger\Pinger.Web.Common\bin\Debug\Pinger.Web.Common.pdb
-D:\projects\Pinger\src\Pinger\Pinger.Web.Common\obj\Debug\Pinger.Web.Common.dll
-D:\projects\Pinger\src\Pinger\Pinger.Web.Common\obj\Debug\Pinger.Web.Common.pdb
