@@ -1,8 +1,6 @@
 D:\projects\Pinger\src\Pinger\Pinger.Web.Site\bin\Pinger.Web.Site.dll
 D:\projects\Pinger\src\Pinger\Pinger.Web.Site\bin\Pinger.Web.Site.pdb
 D:\projects\Pinger\src\Pinger\Pinger.Web.Site\bin\Microsoft.Web.Infrastructure.dll
-D:\projects\Pinger\src\Pinger\Pinger.Web.Site\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
-D:\projects\Pinger\src\Pinger\Pinger.Web.Site\bin\Newtonsoft.Json.dll
 D:\projects\Pinger\src\Pinger\Pinger.Web.Site\bin\System.Net.Http.Formatting.dll
 D:\projects\Pinger\src\Pinger\Pinger.Web.Site\bin\System.Web.Helpers.dll
 D:\projects\Pinger\src\Pinger\Pinger.Web.Site\bin\System.Web.Http.dll
@@ -12,7 +10,6 @@ D:\projects\Pinger\src\Pinger\Pinger.Web.Site\bin\System.Web.Razor.dll
 D:\projects\Pinger\src\Pinger\Pinger.Web.Site\bin\System.Web.WebPages.Deployment.dll
 D:\projects\Pinger\src\Pinger\Pinger.Web.Site\bin\System.Web.WebPages.dll
 D:\projects\Pinger\src\Pinger\Pinger.Web.Site\bin\System.Web.WebPages.Razor.dll
-D:\projects\Pinger\src\Pinger\Pinger.Web.Site\bin\Newtonsoft.Json.xml
 D:\projects\Pinger\src\Pinger\Pinger.Web.Site\bin\System.Net.Http.Formatting.xml
 D:\projects\Pinger\src\Pinger\Pinger.Web.Site\bin\System.Web.Helpers.xml
 D:\projects\Pinger\src\Pinger\Pinger.Web.Site\bin\System.Web.Http.xml
