@@ -22,3 +22,6 @@ D:\projects\Pinger\src\Pinger\Pinger.Web.Site\bin\System.Web.WebPages.Razor.xml
 D:\projects\Pinger\src\Pinger\Pinger.Web.Site\obj\Debug\Pinger.Web.Site.dll
 D:\projects\Pinger\src\Pinger\Pinger.Web.Site\obj\Debug\Pinger.Web.Site.pdb
 D:\projects\Pinger\src\Pinger\Pinger.Web.Site\obj\Debug\Pinger.Web.Site.csprojResolveAssemblyReference.cache
+D:\projects\Pinger\src\Pinger\Pinger.Web.Site\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\projects\Pinger\src\Pinger\Pinger.Web.Site\bin\Newtonsoft.Json.dll
+D:\projects\Pinger\src\Pinger\Pinger.Web.Site\bin\Newtonsoft.Json.xml
