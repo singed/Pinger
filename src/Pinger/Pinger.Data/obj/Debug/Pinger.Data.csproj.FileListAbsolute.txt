@@ -1,5 +1,0 @@
-D:\projects\Pinger\src\Pinger\Pinger.Data\bin\Debug\Pinger.Data.dll
-D:\projects\Pinger\src\Pinger\Pinger.Data\bin\Debug\Pinger.Data.pdb
-D:\projects\Pinger\src\Pinger\Pinger.Data\obj\Debug\Pinger.Data.csprojResolveAssemblyReference.cache
-D:\projects\Pinger\src\Pinger\Pinger.Data\obj\Debug\Pinger.Data.dll
-D:\projects\Pinger\src\Pinger\Pinger.Data\obj\Debug\Pinger.Data.pdb
